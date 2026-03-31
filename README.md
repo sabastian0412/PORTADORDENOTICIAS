@@ -8,3 +8,4 @@
 `npx ng new portal`
 
 ## criar um novo componente
+npx ng g c header
