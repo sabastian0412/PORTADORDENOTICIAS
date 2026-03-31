@@ -9,3 +9,5 @@
 
 ## criar um novo componente
 npx ng g c header
+## criar um novo componente de rodapé
+npx ng g c footer
